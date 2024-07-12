@@ -1,1 +1,1 @@
-# 01basic
+javascript-hindi
